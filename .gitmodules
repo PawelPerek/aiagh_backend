@@ -1,0 +1,3 @@
+[submodule "psi-frontend"]
+	path = psi-frontend
+	url = https://github.com/Podstawy-Sztucznej-Inteligencji/psi-frontend
